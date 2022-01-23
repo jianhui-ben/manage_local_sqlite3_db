@@ -3,6 +3,11 @@ from datetime import date
 import sys
 
 ## test git branch feature1
+def test():
+    print('test')
+
+
+
 ## passed args: .csv name; db name; table name
 
 def write_csv_to_local_db(csv_name, db_name, table_name):
